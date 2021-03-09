@@ -93,5 +93,29 @@ p {
 }
 .links:hover{
     background-color: chartreuse;
+    font-size:30px;
 }
     
+#video{
+     padding: 50px;
+    text-align: center;
+}
+#Work{
+     padding: 50px;
+    text-align: center;
+}
+#Writing{
+     padding: 50px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+.article:hover{
+     color: chartreuse;
+    font-size:30px; 
+}
+html{
+    scroll-behavior: smooth;
+}
+
